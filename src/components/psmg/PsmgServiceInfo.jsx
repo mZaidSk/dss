@@ -29,7 +29,7 @@ const psmgServiceData = {
                 "In the event of a fire, medical emergency, or criminal activity, we offer services.",
         },
     ],
-    imgLink: "images/privateService2.jpg",
+    imgLink: "images/privateService.jpg",
 };
 
 function PsmgServiceInfo() {
