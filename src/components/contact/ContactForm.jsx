@@ -27,7 +27,7 @@ function ContactForm() {
 
         emailjs
             .send(serviceId, templateId, {
-                to_name: "Dhwani Security Services",
+                to_name: "Dhanwi Security Services",
                 from_name: formData.name,
                 from_phone_number: formData.phone,
                 message: formData.message,

@@ -6,11 +6,11 @@ const aboutUsData = {
     description: [
         {
             content:
-                "Welcome to Dhwani Security Services, a trusted leader in security solutions dedicated to protecting what matters most to you. With years of experience in the industry, we specialize in providing top-tier security services tailored to meet the unique needs of both residential and commercial clients.",
+                "Welcome to Dhanwi Security Services, a trusted leader in security solutions dedicated to protecting what matters most to you. With years of experience in the industry, we specialize in providing top-tier security services tailored to meet the unique needs of both residential and commercial clients.",
         },
         {
             content:
-                "At Dhwani Security Services, we are dedicated to delivering peace of mind through expert security services and cutting-edge technology. Our mission is to safeguard your assets, protect your people, and enhance your overall security posture with customized solutions tailored to your unique needs. We pride ourselves on our integrity, reliability, and customer-focused approach, ensuring that your safety and satisfaction are always our top priorities. With years of experience and a proactive approach to threat management, we stand as your trusted partners in protection. Contact us today to discover how we can help secure your future with superior security solutions.",
+                "At Dhanwi Security Services, we are dedicated to delivering peace of mind through expert security services and cutting-edge technology. Our mission is to safeguard your assets, protect your people, and enhance your overall security posture with customized solutions tailored to your unique needs. We pride ourselves on our integrity, reliability, and customer-focused approach, ensuring that your safety and satisfaction are always our top priorities. With years of experience and a proactive approach to threat management, we stand as your trusted partners in protection. Contact us today to discover how we can help secure your future with superior security solutions.",
         },
     ],
     imgLink: "images/logo-trans.png",

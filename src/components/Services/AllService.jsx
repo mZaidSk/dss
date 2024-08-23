@@ -34,7 +34,7 @@ function AllService() {
                         OUR SERVICES
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                        At Dhwani Security Services, our mission is to deliver
+                        At Dhanwi Security Services, our mission is to deliver
                         peace of mind through comprehensive security strategies.
                         We are committed to safeguarding your assets, ensuring
                         the safety of your people, and enhancing your overall

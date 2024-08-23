@@ -48,7 +48,7 @@ function ContactInfo() {
                     </div>
                 </div>
                 <p className="leading-normal my-5">
-                    Dhwani Security Services, Indira nagar, Madhumatti Circle
+                    Dhanwi Security Services, Indira nagar, Madhumatti Circle
                     Road, Opp. National Sarvoday High School,
                     Chembur, Mumbai - 400074
                 </p>
