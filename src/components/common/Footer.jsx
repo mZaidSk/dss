@@ -12,7 +12,7 @@ const Footer = () => {
                 <div className="w-full lg:w-1/2 mb-8 lg:mb-0">
                     <div className="h-full">
                         <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771.389040207182!2d72.89485337505134!3d19.046625282151865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c9006eb18315%3A0x32badcc7844207bd!2sDhwani%20Security%20Services!5e0!3m2!1sen!2sin!4v1723920055492!5m2!1sen!2sin"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771.389040207182!2d72.89485337505134!3d19.046625282151865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c9006eb18315%3A0x32badcc7844207bd!2sDhanwi%20Security%20Services!5e0!3m2!1sen!2sin!4v1723920055492!5m2!1sen!2sin"
                             width="600"
                             height="450"
                             style={{ border: 0 }}
@@ -33,7 +33,7 @@ const Footer = () => {
                                     Contact Info
                                 </h2>
                                 <p className="mt-2 text-white">
-                                    Address: Dhwani Security Services, Indira
+                                    Address: Dhanwi Security Services, Indira
                                     Nagar, Madhumatti Circle Road, Opp. National
                                     Sarvoday High School, Chembur, Mumbai -
                                     400074
@@ -108,14 +108,14 @@ const Footer = () => {
             <div className="bg-slate-800 py-4">
                 <div className="container mx-auto flex flex-wrap justify-between items-center px-8">
                     <p className="text-gray-500 text-sm text-center sm:text-left">
-                        © 2024 Dhwani Security Services —
+                        © 2024 Dhanwi Security Services —
                         <a
-                            href="https://twitter.com/DhwaniSecurityServices"
+                            href="https://twitter.com/DhanwiSecurityServices"
                             rel="noopener noreferrer"
                             className="text-gray-600 ml-1"
                             target="_blank"
                         >
-                            @DhwaniSecurityServices
+                            @DhanwiSecurityServices
                         </a>
                     </p>
                     <div className="flex justify-center sm:justify-start">
